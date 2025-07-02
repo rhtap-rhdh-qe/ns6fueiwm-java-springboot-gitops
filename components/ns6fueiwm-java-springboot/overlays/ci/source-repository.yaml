@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ns6fueiwm-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ns6fueiwm-java-springboot
